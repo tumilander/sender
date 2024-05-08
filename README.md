@@ -17,7 +17,7 @@ This tool was developed for stress testing and performance evaluation of web ser
 
 `git clone https://github.com/tumilander/sender.git`
 
-`cd multi-request-sender`
+`cd sender`
 
 `pip install -r requirements.txt`
 
